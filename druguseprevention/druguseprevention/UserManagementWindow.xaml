@@ -1,0 +1,79 @@
+<Window x:Class="druguseprevention.UserManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quản lý người dùng" Height="800" Width="1000">
+    
+        <StackPanel >
+            <TextBlock Text="Quản lý người dùng" FontWeight="Bold" FontSize="20" Foreground="#1e3a8a" Margin="0,0,0,10"/>
+            <DataGrid x:Name="UserDataGrid" AutoGenerateColumns="False" Margin="0,0,0,10" IsReadOnly="True" SelectionMode="Single" Height="200" SelectionChanged="UserDataGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding userId}" Width="50"/>
+                    <DataGridTextColumn Header="Tên đăng nhập" Binding="{Binding userName}" Width="120"/>
+                    <DataGridTextColumn Header="Họ tên" Binding="{Binding fullName}" Width="150"/>
+                    <DataGridTextColumn Header="Email" Binding="{Binding email}" Width="150"/>
+                    <DataGridTextColumn Header="SĐT" Binding="{Binding phoneNumber}" Width="100"/>
+                    <DataGridTextColumn Header="Địa chỉ" Binding="{Binding address}" Width="120"/>
+                    <DataGridTextColumn Header="Ngày sinh" Binding="{Binding dateOfBirth}" Width="100"/>
+                    <DataGridTextColumn Header="Giới tính" Binding="{Binding gender}" Width="80"/>
+                    <DataGridTextColumn Header="Vai trò" Binding="{Binding role}" Width="80"/>
+                    <DataGridCheckBoxColumn Header="Đã xóa" Binding="{Binding deleted}" Width="60"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        
+        
+            <Border Grid.Row="1" BorderBrush="#DDD" BorderThickness="1" Padding="30,20" Margin="0,20,0,0" CornerRadius="8">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Form nhập/sửa người dùng" FontWeight="Bold" FontSize="16" Grid.ColumnSpan="2" Margin="0,0,0,18"/>
+                    
+                    <TextBlock Text="Tên đăng nhập:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="UserNameBox" Grid.Row="1" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <TextBlock Text="Họ tên:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="FullNameBox" Grid.Row="2" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <TextBlock Text="Email:" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="EmailBox" Grid.Row="3" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <TextBlock Text="SĐT:" Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="PhoneBox" Grid.Row="4" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <TextBlock Text="Địa chỉ:" Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="AddressBox" Grid.Row="5" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <TextBlock Text="Ngày sinh (yyyy-MM-dd):" Grid.Row="6" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="DobBox" Grid.Row="6" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <TextBlock Text="Giới tính:" Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="GenderBox" Grid.Row="7" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <TextBlock Text="Vai trò (USER/ADMIN):" Grid.Row="8" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,8"/>
+                    <TextBox x:Name="RoleBox" Grid.Row="8" Grid.Column="1" Width="250" Margin="0,0,0,8"/>
+
+                    <StackPanel Grid.Row="9" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,16,0,0">
+                        <Button Content="Lưu" Width="80" Margin="0,0,10,0" Click="SaveUser_Click"/>
+                        <Button Content="Thêm mới" Width="80" Margin="0,0,10,0" Click="AddNewUser_Click"/>
+                        <Button Content="Xóa" Width="80" Margin="0,0,10,0" Click="DeleteUser_Click"/>
+                        <Button Content="Hủy" Width="80" Click="CancelEdit_Click"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </StackPanel>
+    
+</Window> 
