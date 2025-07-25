@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haistore.vn\\Documents\\PRN212_PE\\druguseprevention\\druguseprevention\\druguseprevention.csproj": {}
+    "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\druguseprevention.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haistore.vn\\Documents\\PRN212_PE\\druguseprevention\\druguseprevention\\druguseprevention.csproj": {
+    "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\druguseprevention.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haistore.vn\\Documents\\PRN212_PE\\druguseprevention\\druguseprevention\\druguseprevention.csproj",
+        "projectUniqueName": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\druguseprevention.csproj",
         "projectName": "druguseprevention",
-        "projectPath": "C:\\Users\\haistore.vn\\Documents\\PRN212_PE\\druguseprevention\\druguseprevention\\druguseprevention.csproj",
+        "projectPath": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\druguseprevention.csproj",
         "packagesPath": "C:\\Users\\haistore.vn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haistore.vn\\Documents\\PRN212_PE\\druguseprevention\\druguseprevention\\obj\\",
+        "outputPath": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

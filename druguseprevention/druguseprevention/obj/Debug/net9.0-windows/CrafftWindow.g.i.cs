@@ -60,7 +60,7 @@ namespace druguseprevention {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/druguseprevention;V1.0.0.0;component/crafftwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/druguseprevention;component/crafftwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\CrafftWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

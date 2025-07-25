@@ -1,0 +1,21 @@
+﻿<Window x:Class="druguseprevention.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bảng quản trị" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen" Background="#F0F4FF">
+
+    <DockPanel>
+        <Border Background="#1E3A8A" Padding="10" DockPanel.Dock="Top">
+            <TextBlock Text="Quản trị hệ thống" FontSize="20" Foreground="White" FontWeight="Bold"/>
+        </Border>
+        <StackPanel Width="200" Background="#E6EAF5" DockPanel.Dock="Left">
+            <Button Content="Người dùng" Margin="5" Name="UserButton" Click="UserButton_Click"/>
+            <Button Content="Khóa học" Margin="5" Name="CourseButton" Click="CourseButton_Click"/>
+            <Button Content="Thống kê" Margin="5" Name="ReportButton" Click="ReportButton_Click"/>
+            <Button Content="Đăng xuất" Margin="5" Name="LogoutButton" Click="LogoutButton_Click"/>
+        </StackPanel>
+        <Grid Margin="10" x:Name="MainContentArea">
+            <TextBlock Text="Chào mừng bạn đến trang quản trị." FontSize="16" FontWeight="Medium"/>
+        </Grid>
+    </DockPanel>
+</Window>

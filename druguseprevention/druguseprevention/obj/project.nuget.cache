@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MjeH9TE3Bz8=",
+  "dgSpecHash": "Vo11LMPTpbc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\haistore.vn\\Documents\\PRN212_PE\\druguseprevention\\druguseprevention\\druguseprevention.csproj",
+  "projectFilePath": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\druguseprevention.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haistore.vn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

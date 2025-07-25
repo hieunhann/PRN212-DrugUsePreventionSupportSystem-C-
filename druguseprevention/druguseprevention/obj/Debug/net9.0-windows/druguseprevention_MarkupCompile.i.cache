@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\haistore.vn\Documents\PRN212_PE\druguseprevention\druguseprevention\obj\Debug\net9.0-windows\
+C:\Users\haistore.vn\Documents\DEMO_PRN212\PRN212-DrugUsePreventionSupportSystem-C-\druguseprevention\druguseprevention\obj\Debug\net9.0-windows\
 druguseprevention
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\haistore.vn\Documents\PRN212_PE\druguseprevention\druguseprevention\App.xaml
-684340047
+C:\Users\haistore.vn\Documents\DEMO_PRN212\PRN212-DrugUsePreventionSupportSystem-C-\druguseprevention\druguseprevention\App.xaml
+7-806118056
 
-1187099635
+121308906579
 201-1595822819
-CourseListView.xaml;CourseQuizWindow.xaml;CrafftWindow.xaml;LessonWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+AdminWindow.xaml;CourseListView.xaml;CourseQuizWindow.xaml;CrafftWindow.xaml;LessonWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
 False
 

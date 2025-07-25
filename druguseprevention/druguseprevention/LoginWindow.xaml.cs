@@ -1,20 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
-using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Text;
 using Newtonsoft.Json;
 
 namespace druguseprevention
@@ -28,6 +15,7 @@ namespace druguseprevention
         {
             InitializeComponent();
         }
+
         private async void LoginButton_Click(object sender, RoutedEventArgs e)
         {
             string username = UsernameBox.Text.Trim();
@@ -59,10 +47,17 @@ namespace druguseprevention
 
                     MessageBox.Show("Đăng nhập thành công!", "Thông báo");
 
-                    // Gán dữ liệu vào App hoặc MainWindow
                     App.Current.Properties["token"] = result.token;
                     App.Current.Properties["userName"] = result.userName;
                     App.Current.Properties["role"] = result.role;
+
+                    if (result.role == "ADMIN")
+                    {
+                        AdminWindow adminWindow = new AdminWindow();
+                        adminWindow.Show();
+                        this.Close();
+                        return;
+                    }
 
                     DialogResult = true;
                     Close();
@@ -77,8 +72,8 @@ namespace druguseprevention
                 MessageBox.Show("Không thể kết nối tới máy chủ: " + ex.Message, "Lỗi kết nối");
             }
         }
-
     }
+
     public class LoginResponse
     {
         public string userName { get; set; }
