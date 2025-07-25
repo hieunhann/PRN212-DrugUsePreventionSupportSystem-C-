@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\consultantwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\consultantwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\consultantwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\consultantwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\courselistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\courselistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|solutionrelative:druguseprevention\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C6E48F8-7E00-4B83-A88E-9FA4FE2F6FFE}|druguseprevention\\druguseprevention.csproj|c:\\users\\haistore.vn\\documents\\demo_prn212\\prn212-drugusepreventionsupportsystem-c-\\druguseprevention\\druguseprevention\\courselistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +62,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\CourseListView.xaml.cs",
+              "RelativeDocumentMoniker": "druguseprevention\\CourseListView.xaml.cs",
+              "ToolTip": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\CourseListView.xaml.cs",
+              "RelativeToolTip": "druguseprevention\\CourseListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:34:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "druguseprevention\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "druguseprevention\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:26:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultantWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\ConsultantWindow.xaml.cs",
+              "RelativeDocumentMoniker": "druguseprevention\\ConsultantWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\ConsultantWindow.xaml.cs",
+              "RelativeToolTip": "druguseprevention\\ConsultantWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:26:17.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConsultantWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\ConsultantWindow.xaml",
+              "RelativeDocumentMoniker": "druguseprevention\\ConsultantWindow.xaml",
+              "ToolTip": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\ConsultantWindow.xaml",
+              "RelativeToolTip": "druguseprevention\\ConsultantWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T07:25:07.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "druguseprevention\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\MainWindow.xaml.cs",
+              "RelativeToolTip": "druguseprevention\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvysAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:20:19.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "druguseprevention\\AdminWindow.xaml",
@@ -54,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "druguseprevention\\LoginWindow.xaml.cs",
@@ -62,24 +146,22 @@
               "RelativeToolTip": "druguseprevention\\LoginWindow.xaml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAiwDcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T06:51:24.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T06:51:24.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "druguseprevention\\LoginWindow.xaml",
               "ToolTip": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\LoginWindow.xaml",
               "RelativeToolTip": "druguseprevention\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-25T06:51:20.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T06:51:20.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\MainWindow.xaml",
               "RelativeDocumentMoniker": "druguseprevention\\MainWindow.xaml",
@@ -91,15 +173,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CourseListView.xaml",
               "DocumentMoniker": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\CourseListView.xaml",
               "RelativeDocumentMoniker": "druguseprevention\\CourseListView.xaml",
               "ToolTip": "C:\\Users\\haistore.vn\\Documents\\DEMO_PRN212\\PRN212-DrugUsePreventionSupportSystem-C-\\druguseprevention\\druguseprevention\\CourseListView.xaml",
               "RelativeToolTip": "druguseprevention\\CourseListView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-25T06:45:46.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T06:45:46.316Z"
             }
           ]
         }

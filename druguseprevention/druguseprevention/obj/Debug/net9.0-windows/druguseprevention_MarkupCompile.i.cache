@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\haistore.vn\Documents\DEMO_PRN212\PRN212-DrugUsePreventionSupportSystem-C-\druguseprevention\druguseprevention\App.xaml
-7-806118056
+8-925565169
 
-121308906579
+13-260170982
 201-1595822819
-AdminWindow.xaml;CourseListView.xaml;CourseQuizWindow.xaml;CrafftWindow.xaml;LessonWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+AdminWindow.xaml;ConsultantWindow.xaml;CourseListView.xaml;CourseQuizWindow.xaml;CrafftWindow.xaml;LessonWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
 False
 

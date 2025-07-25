@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\haistore.vn\Documents\DEMO_PRN212\PRN212-DrugUsePreventionSupportSystem-C-\druguseprevention\druguseprevention\App.xaml
-684340047
+8-925565169
 
-9648478762
+11301208145
 201-1595822819
-CourseListView.xaml;CourseQuizWindow.xaml;CrafftWindow.xaml;LessonWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+AdminWindow.xaml;ConsultantWindow.xaml;CourseListView.xaml;CourseQuizWindow.xaml;CrafftWindow.xaml;LessonWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
 False
 

@@ -40,7 +40,8 @@ namespace druguseprevention
                     window.ShowDialog();
                     break;
                 case "Tư vấn trực tuyến":
-                    MessageBox.Show("Đi tới trang Tư vấn trực tuyến");
+                    var consultWindow = new ConsultantWindow();
+                    consultWindow.ShowDialog();
                     break;
                 case "Chương trình cộng đồng":
                     MessageBox.Show("Đi tới trang Chương trình cộng đồng");

@@ -1,0 +1,17 @@
+﻿<Window x:Class="druguseprevention.ConsultantWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Drug Prevention" Height="450" Width="800">
+
+    <Grid>
+        <DataGrid x:Name="ConsultantGrid" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding FullName}" Width="*" />
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="*" />
+                <DataGridTextColumn Header="SĐT" Binding="{Binding PhoneNumber}" Width="*" />
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding Address}" Width="*" />
+                <DataGridTextColumn Header="Giới tính" Binding="{Binding Gender}" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

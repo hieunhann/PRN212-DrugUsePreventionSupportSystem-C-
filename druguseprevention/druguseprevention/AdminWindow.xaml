@@ -9,11 +9,11 @@
             <TextBlock Text="Quản trị hệ thống" FontSize="20" Foreground="White" FontWeight="Bold"/>
         </Border>
         <StackPanel Width="200" Background="#E6EAF5" DockPanel.Dock="Left">
-            <Button Content="Người dùng" Margin="5" Name="UserButton" Click="UserButton_Click"/>
-            <Button Content="Khóa học" Margin="5" Name="CourseButton" Click="CourseButton_Click"/>
-            <Button Content="Chuong trinh" Margin="5" Name="ReportButton" Click="ReportButton_Click"/>
-            <Button Content="Lich hen" Margin="5" Name="ConsulButton" Click="ReportButton_Click"/>
-            
+            <Button Content="Người dùng" Margin="5" Name="UserButton"/>
+            <Button Content="Khóa học" Margin="5" Name="CourseButton" />
+            <Button Content="Chuong trinh" Margin="5" Name="ReportButton" />
+            <Button Content="Lich hen" Margin="5" Name="ConsulButton" />
+            <Button Content="Khao sat" Margin="5" Name="AssessmentButton" />
         </StackPanel>
         <Grid Margin="10" x:Name="MainContentArea">
             <TextBlock Text="Chào mừng bạn đến trang quản trị." FontSize="16" FontWeight="Medium"/>
