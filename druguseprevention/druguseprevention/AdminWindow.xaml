@@ -11,8 +11,9 @@
         <StackPanel Width="200" Background="#E6EAF5" DockPanel.Dock="Left">
             <Button Content="Người dùng" Margin="5" Name="UserButton" Click="UserButton_Click"/>
             <Button Content="Khóa học" Margin="5" Name="CourseButton" Click="CourseButton_Click"/>
-            <Button Content="Thống kê" Margin="5" Name="ReportButton" Click="ReportButton_Click"/>
-            <Button Content="Đăng xuất" Margin="5" Name="LogoutButton" Click="LogoutButton_Click"/>
+            <Button Content="Chuong trinh" Margin="5" Name="ReportButton" Click="ReportButton_Click"/>
+            <Button Content="Lich hen" Margin="5" Name="ConsulButton" Click="ReportButton_Click"/>
+            
         </StackPanel>
         <Grid Margin="10" x:Name="MainContentArea">
             <TextBlock Text="Chào mừng bạn đến trang quản trị." FontSize="16" FontWeight="Medium"/>
