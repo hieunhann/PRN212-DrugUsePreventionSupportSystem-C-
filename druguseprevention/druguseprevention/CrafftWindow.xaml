@@ -1,0 +1,19 @@
+﻿<Window x:Class="druguseprevention.CrafftWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Đánh giá CRAFFT" Height="600" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#F7F7F7">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="20" x:Name="QuestionsPanel" />
+        </ScrollViewer>
+
+        <DockPanel VerticalAlignment="Bottom" Margin="20">
+            <Button Content="Quay lại" Click="BackButton_Click"
+                    DockPanel.Dock="Left" Padding="10,5" Margin="5"/>
+            <Button Content="Gửi bài đánh giá" Click="SubmitButton_Click"
+                    DockPanel.Dock="Right" Padding="10,5" Margin="5"
+                    Background="#16A34A" Foreground="White"/>
+        </DockPanel>
+    </Grid>
+</Window>
